@@ -1,0 +1,5 @@
+package concorrency
+
+func Exercices() {
+
+}
